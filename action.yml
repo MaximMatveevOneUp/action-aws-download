@@ -1,0 +1,9 @@
+name: "Download form AWS"
+description: "Downloads file from AWS"
+author: MaximMatveev
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: hard-drive
+  color: green
